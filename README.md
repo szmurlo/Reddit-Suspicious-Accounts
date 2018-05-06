@@ -1,5 +1,5 @@
 # Reddit-Suspicious-Accounts
-U. Chicago RCC [Deep Learning Hackathon](https://github.com/rcc-uchicago/deep_learning_hack/wiki/Projects)
+U. Chicago RCC [Deep Learning Hackathon](https://github.com/rcc-uchicago/deep_learning_hack/wiki/Projects) May 6th, 2018
 
 An attempt to categorize 'suspicious accounts' on Reddit 
 
